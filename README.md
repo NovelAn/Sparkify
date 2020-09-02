@@ -6,7 +6,7 @@
 - [CSDN-Sparkify项目分享](https://blog.csdn.net/novelan/article/details/108325284)
 
 ```
-##要使用此项目，请首先使用以下命令在你的设备上克隆repo
+## 要使用此项目，请首先使用以下命令在你的设备上克隆repo
 
 git init
 git clone [链接]
